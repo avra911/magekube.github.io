@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Magekube</title>
+    <link>https://www.magekube.com/authors/</link>
+    <description>Recent content in Authors on Magekube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Dec 2018 10:26:40 +1000</lastBuildDate>
+    
+	<atom:link href="https://www.magekube.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Razvan Avramescu</title>
+      <link>https://www.magekube.com/authors/razvan-avramescu/</link>
+      <pubDate>Sat, 29 Dec 2018 10:26:40 +1000</pubDate>
+      
+      <guid>https://www.magekube.com/authors/razvan-avramescu/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
+    </item>
+    
+  </channel>
+</rss>
