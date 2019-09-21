@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on Magekube</title>
-    <link>http://www.magekube.com/contact/</link>
+    <link>https://www.magekube.com/contact/</link>
     <description>Recent content in Contact on Magekube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Feb 2018 17:01:34 +0700</lastBuildDate>
     
-	<atom:link href="http://www.magekube.com/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.magekube.com/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Success</title>
-      <link>http://www.magekube.com/contact/success/</link>
+      <link>https://www.magekube.com/contact/success/</link>
       <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.magekube.com/contact/success/</guid>
+      <guid>https://www.magekube.com/contact/success/</guid>
       <description>We offer a free consultation for all new clients.</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Magekube</title>
-    <link>http://www.magekube.com/authors/</link>
+    <link>https://www.magekube.com/authors/</link>
     <description>Recent content in Authors on Magekube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Dec 2018 10:26:40 +1000</lastBuildDate>
     
-	<atom:link href="http://www.magekube.com/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.magekube.com/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Razvan Avramescu</title>
-      <link>http://www.magekube.com/authors/razvan-avramescu/</link>
+      <link>https://www.magekube.com/authors/razvan-avramescu/</link>
       <pubDate>Sat, 29 Dec 2018 10:26:40 +1000</pubDate>
       
-      <guid>http://www.magekube.com/authors/razvan-avramescu/</guid>
+      <guid>https://www.magekube.com/authors/razvan-avramescu/</guid>
       <description>Razvan is a fan of using continuous integration while architecting the infrastructure for Magento 2-based sites. All in all, Razvan is a veteran Magento 1 and 2 developer who has hands-on experience with bug-fixing, optimization, and module creation.</description>
     </item>
     
