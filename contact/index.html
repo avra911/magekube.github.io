@@ -149,7 +149,7 @@
   <div class="container pt-4 pt-md-10 pb-4 pb-md-10">
     <div class="row">
       <div class="col-12">
-        <form name="contact" method="POST" action="https://formspree.io/contact@magekube.com" data-netlify="true">
+        <form name="contact" accept-charset="UTF-8" action="https://formrelay.com/r/wnCJoOlG03" method="POST">
           <h2>Enquiry</h2>
           <div class="row">
             <div class="col-md-6">
@@ -176,6 +176,14 @@
             </div>
           </div>
         </form>
+        
+        <script src="https://www.google.com/recaptcha/api.js?render=6LfAfLoUAAAAALABfz3CC9lFGkT-l98bRa-8p9qe"></script>
+        <script>
+        grecaptcha.ready(function() {
+            grecaptcha.execute('6LfAfLoUAAAAALABfz3CC9lFGkT-l98bRa-8p9qe', {action: 'homepage'});
+        });
+        </script>
+        
       </div>
     </div>
   </div>
