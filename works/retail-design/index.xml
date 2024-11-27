@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Retail Design on Magekube</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Retail Design on Magekube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Dec 2018 14:49:53 +1000</lastBuildDate>
-    
-	<atom:link href="https://www.magekube.com/works/retail-design/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 20 Dec 2018 14:49:53 +1000</lastBuildDate><atom:link href="https://www.magekube.com/works/retail-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Green Leaf Plant Juice</title>
       <link>https://www.magekube.com/work/green-leaf-plant-juice/</link>

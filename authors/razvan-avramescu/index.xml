@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Razvan Avramescu on Magekube</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Razvan Avramescu on Magekube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Dec 2018 10:26:40 +1000</lastBuildDate>
-    
-	<atom:link href="https://www.magekube.com/authors/razvan-avramescu/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 29 Dec 2018 10:26:40 +1000</lastBuildDate><atom:link href="https://www.magekube.com/authors/razvan-avramescu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building a Website With Hugo</title>
       <link>https://www.magekube.com/posts/building-a-website-with-hugo/</link>
